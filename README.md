@@ -1,10 +1,10 @@
-[![MasterHead](https://cdn.shopify.com/s/files/1/0070/5901/3716/files/coding_background.jpg?v=1688538955)](https:https://my-portfolio-axlhyjgsc-mahadevs-projects-7f30d1a2.vercel.app/)
+[![MasterHead](https://cdn.shopify.com/s/files/1/0070/5901/3716/files/coding_background.jpg?v=1688538955)](https://my-portfolio-axlhyjgsc-mahadevs-projects-7f30d1a2.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Mahadev</h1>
 
 <h3 align="center">Passionate Web Developer | Exploring the World of Front-End Magic ✨</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahadev505&label=Profile%20views&color=0e75b6&style=flat" alt="mahadev505" />
 </p>
 
