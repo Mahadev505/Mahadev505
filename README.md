@@ -5,8 +5,9 @@
 <h3 align="center">Passionate Web Developer | Exploring the World of Front-End Magic ✨</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahadev505&label=Profile%20views&color=0e75b6&style=flat" alt="mahadev505" />
+  <img src="https://komarev.com/ghpvc/?username=mahadev505&label=Profile%20views&color=0e75b6&style=flat" alt="mahadev505" align="center" />
 </p>
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
