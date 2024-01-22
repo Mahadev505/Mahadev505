@@ -1,9 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://vercel.com/mahadevs-projects-7f30d1a2/my-portfolio/GYpfujaDBoC577E2AGo72JbZrgvE)
-
-<h1 align="center">Hi 👋, I'm Mahadev</h1>
-
-<!-- ... (Rest of your content) ... -->
-
+[![MasterHead](https://cdn.shopify.com/s/files/1/0070/5901/3716/files/coding_background.jpg?v=1688538955)](https:https://my-portfolio-axlhyjgsc-mahadevs-projects-7f30d1a2.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Mahadev</h1>
 
